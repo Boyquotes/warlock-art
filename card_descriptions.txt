@@ -1,0 +1,183 @@
+Here is a glossary of Warlock terms from the existing cards, and a list of the existing card concepts (27/60)
+
+
+GLOSSARY OF TERMS
+
+rage: can attack twice
+
+guardian: blocks automatically
+
+flying: can't be blocked
+
+butcher N: destroy N creeps and gain half of the summon cost in flesh and bone
+
+slaughter N: destroy 1 enemy creep, gain half the summon cost in blood and spirit
+
+revenge damage: damage dealt on death
+
+
+TEMPLATE FOR CARD DESCRIPTIONS
+
+name
+type
+[cost]
+[effect]
+[attack/defense]
+
+
+CARD DESCRIPTIONS
+
+messenger of death
+cantrip
+3 spirit, 3 blood
+upon your next rising step destroy a random enemy creep
+
+patron's mark
+rune
+2 spirit, 1 bone
+your spirit creeps gain 2/2
+
+bladed feathers
+cantrip
+1 bone, 1 spirit
+target creep you control with flying gains 2/0 for 2 turns
+
+flying inkling
+creep
+2 spirit, 1 blood
+flying; copy target active creep's ability
+1/3
+
+bone golem
+creep
+12 bone, 1 spirit
+reduce cost by 1 bone per active bone creep
+10/6
+
+dark clarity
+cantrip
+2 spirit
+draw three cards, discard one randomly
+
+smug satisfaction
+ward
+when in your third ward slot, copy the ward in the first ward slot
+
+bloodletter
+creep
+4 blood, 2 bone
+destroy a friendly creep; add four blood to your resources
+2/2
+
+ghastly look
+ward
+reduce the attack of yoru enemy's creeps by 3 until your next falling step
+
+leshy
+creep
+2 spirit, 5 bone
+can also block adjacent lanes
+5/ 6
+
+demented hobgoblin
+creep
+3 bone, 3 spirit
+activate one of the wards your ward deck
+2/3
+
+vampire bride
+creep
+5 blood
+bleeding; this card inflicts bleeding when it breaks an enemy ward
+3/5
+
+shambleman
+creep
+4 flesh, 3 bone
+when this card dies, create 2 copies with half the attack
+4/4
+
+hungry sprite
+creep
+1 bone, 1 flesh
+pay 3 extra flesh to triple stats
+4/4
+
+wandering nightmare
+creep
+4 blood, 3 spirit
+at the end of your turn this card gets +1/+1
+4/5
+
+dark shaman
+creep
+4 spirit
+rage (attacks twice)
+2/ 6
+
+vampire's pet
+creep
+2 blood
+add 1 blood to your resources at the beginning of your rising phase 
+1/1
+
+gargoyle
+creep
+2 flesh, 1 spirit
+guardian (blocks automatically)
+2/4
+
+murder of crows
+creep
+2 spirit
+flying (can't be blocked)
+1/3
+
+howling wolf
+1 blood, 1 bone
+3/2
+
+corpse dealer
+creep
+2 flesh, 2 bone
+butcher 1 friendly creep (destroy and gain half of the summon cost in flesh and bone)
+1/3
+
+consuming slime
+creep
+1 bone, 1 blood
+pay 3 extra blood to triple stats
+1/3
+
+happy creeps
+rune
+2 spirit, 1 blood
+all friendly creeps gain 2/2
+
+scared ghost
+creep
+3 spirit
+-1 ATK while defending
+4/3
+
+corpse maker
+creep
+2 blood, 2 spirit
+slaughter 1 (destroy 1 enemy creep, gain 1/2 of the summon cost in blood and spirit)
+2/2
+
+rogue's whisper
+cantrip
+2 blood, 1 flesh
+friendly creeps gain flying this turn
+
+spiteful imp
+creep
+2 spirit, 1 flesh
+when destroyed, half an enemy creep's stats
+2/2
+
+torchfork
+ward
+deal revenge damage equal to the attack that destroyed this ward to three enemies
+[attack/defense]
